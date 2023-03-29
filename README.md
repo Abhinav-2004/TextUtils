@@ -1,3 +1,8 @@
+Project contains React Dom components.
+There is some problem in default Loading of Home page.
+Kindly Click on Home first to access it.
+Sorry For the Inconvinience caused.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
